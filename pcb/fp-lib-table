@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kbd")(type "KiCad")(uri "/home/arch/workspace/github/mykbd/lib/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "footprint_goropikari")(type "KiCad")(uri "/home/arch/workspace/github/mykbd/lib/kbd_goropikari/footprint_goropikari")(options "")(descr ""))
+)

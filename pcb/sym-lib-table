@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "kbd")(type "Legacy")(uri "/home/arch/workspace/github/mykbd/lib/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "goropikari_kbd")(type "KiCad")(uri "/home/arch/workspace/github/mykbd/lib/kbd_goropikari/symbol_goropikari/goropikari_kbd.kicad_sym")(options "")(descr ""))
+)
